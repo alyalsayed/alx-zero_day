@@ -1,4 +1,4 @@
-Most used git commands:
+Most git commands used :
 git status
 git add file1 file2
 git commit -m "message"
