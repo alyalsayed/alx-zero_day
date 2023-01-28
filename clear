@@ -1,0 +1,111 @@
+[33mcommit 54b19d826cccd9c1af57e13f11b0c7eeb04caeaa[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: alyalsayed <alyalsayed56@yahoo.com>
+Date:   Sat Jan 28 06:31:34 2023 +0200
+
+    Hot fix
+
+[33mcommit 8c52fe55a0b7d14eaf925fbec48ee8c43e2a4984[m
+Author: Aly Alsayed <84514495+alyalsayed@users.noreply.github.com>
+Date:   Sat Jan 28 06:18:50 2023 +0200
+
+    Delete 98
+
+[33mcommit bac64daad7ee5209680881706e12dbc3d7e96cfb[m
+Merge: c62f9c4 3186fd7
+Author: Aly Alsayed <84514495+alyalsayed@users.noreply.github.com>
+Date:   Sat Jan 28 05:27:17 2023 +0200
+
+    Merge pull request #1 from alyalsayed/update_script
+    
+    My personal work
+
+[33mcommit 3186fd701aa50ea60db4bc3212278736785cd72a[m
+Merge: 993c223 c62f9c4
+Author: Aly Alsayed <84514495+alyalsayed@users.noreply.github.com>
+Date:   Sat Jan 28 05:27:03 2023 +0200
+
+    Merge branch 'main' into update_script
+
+[33mcommit c62f9c473f2c19faa80df8779b6c584761d7c6c1[m
+Author: Aly Alsayed <84514495+alyalsayed@users.noreply.github.com>
+Date:   Sat Jan 28 05:23:43 2023 +0200
+
+    How to be up to date in git
+
+[33mcommit 7eb3db9437bd29e5423577a4172b806fd535de5c[m
+Author: Aly Alsayed <84514495+alyalsayed@users.noreply.github.com>
+Date:   Sat Jan 28 05:23:25 2023 +0200
+
+    Delete up_to_date
+
+[33mcommit 038fd7fd5bb165350b0505a26c2a7609d3ab6e51[m
+Author: Aly Alsayed <84514495+alyalsayed@users.noreply.github.com>
+Date:   Sat Jan 28 05:17:09 2023 +0200
+
+    Add files via upload
+
+[33mcommit 2dfe8595b01a4cbfe8620a13a8654e8b2f1bb0bd[m
+Author: Aly Alsayed <84514495+alyalsayed@users.noreply.github.com>
+Date:   Sat Jan 28 04:38:51 2023 +0200
+
+    Update README.md
+
+[33mcommit 853bc46cf05c91dd9b9f5fbabb540be9e53ab4ad[m
+Author: Aly Alsayed <84514495+alyalsayed@users.noreply.github.com>
+Date:   Sat Jan 28 04:38:20 2023 +0200
+
+    Update README.md
+
+[33mcommit efa50d46ae487c0ee13c469f0f0ebb8cadeae675[m
+Author: Aly Alsayed <84514495+alyalsayed@users.noreply.github.com>
+Date:   Sat Jan 28 04:37:52 2023 +0200
+
+    Update README.md
+
+[33mcommit 046ab2c0d82cdb2210e25ca81bce31238d5dcec4[m
+Author: alyalsayed <alyalsayed56@yahoo.com>
+Date:   Sat Jan 28 04:32:47 2023 +0200
+
+    Hot fix
+
+[33mcommit 993c2230a508de4d7f76987b4e1d00c3d8c34795[m
+Author: alyalsayed <alyalsayed56@yahoo.com>
+Date:   Sat Jan 28 04:24:32 2023 +0200
+
+    My personal work
+
+[33mcommit 12a577d47938ecf1f51c22e24c7254f85db28dd8[m
+Author: alyalsayed <alyalsayed56@yahoo.com>
+Date:   Sat Jan 28 04:15:14 2023 +0200
+
+    My personal work
+
+[33mcommit f6cb589377fcc1d45ce37161c4dbdf886c67e2be[m
+Author: alyalsayed <alyalsayed56@yahoo.com>
+Date:   Sat Jan 28 03:19:45 2023 +0200
+
+    Starting to code today, so cool
+
+[33mcommit 1740e2282ea66b817676f8a4a810e6417a1cdf9e[m
+Author: alyalsayed <alyalsayed56@yahoo.com>
+Date:   Sat Jan 28 03:17:16 2023 +0200
+
+    Starting to code today, so cool
+
+[33mcommit c70e641350e92fb458fa6b41abbe82ce6252ccb9[m
+Author: alyalsayed <alyalsayed56@yahoo.com>
+Date:   Sat Jan 28 03:09:02 2023 +0200
+
+    update read me
+
+[33mcommit 627618f2ecb8ba7c06204769122a295c268ea255[m
+Author: alyalsayed <alyalsayed56@yahoo.com>
+Date:   Sat Jan 28 03:05:23 2023 +0200
+
+    Create 0x01-git directory
+
+[33mcommit 4374fde3032901bcd2c21f84d41bfaefb6653d99[m
+Author: alyalsayed <alyalsayed56@yahoo.com>
+Date:   Sat Jan 28 03:00:44 2023 +0200
+
+    My first commit
